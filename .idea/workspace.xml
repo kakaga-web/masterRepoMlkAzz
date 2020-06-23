@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/medChiboubBRANCH_mlkazzProject" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cad9bfb-110a-4007-b18c-d09203012be5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="mlkazz" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="masterRepoMlkAzz" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/mlkazz/masterRepoMlkAzz.git" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dhIL3HALeTSnjFV6cJ8YfzZXxl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cad9bfb-110a-4007-b18c-d09203012be5" name="Default Changelist" comment="" />
+      <created>1592870839000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592870839000</updated>
+      <workItem from="1592870842437" duration="7080000" />
+    </task>
+    <task id="LOCAL-00001" summary="deleted some useless files">
+      <created>1592870946031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592870946031</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created file from chiboub branch">
+      <created>1592874601136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592874601136</updated>
+    </task>
+    <task id="LOCAL-00003" summary="deleted created file from chiboub">
+      <created>1592876418533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592876418533</updated>
+    </task>
+    <task id="LOCAL-00004" summary="html file created by chiboub">
+      <created>1592878124624</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592878124624</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added in intellij by mohamed chiboub">
+      <created>1592878769305</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592878769305</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/medChiboubBRANCH_mlkazzProject" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="deleted some useless files" />
+    <MESSAGE value="Created file from chiboub branch" />
+    <MESSAGE value="deleted created file from chiboub" />
+    <MESSAGE value="html file created by chiboub" />
+    <MESSAGE value="added in intellij by mohamed chiboub" />
+    <option name="LAST_COMMIT_MESSAGE" value="added in intellij by mohamed chiboub" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="231" width="602" height="275" key="#Notifications" timestamp="1592874984255">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="568" y="231" width="602" height="275" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1592874984255" />
+    <state x="381" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592878751637">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="381" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1592878751637" />
+    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1592878768192">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1592878768192" />
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1592876405302">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1592876405302" />
+    <state x="45" y="65" key="Github.CreatePullRequestDialog" timestamp="1592875066153">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="45" y="65" key="Github.CreatePullRequestDialog/0.0.1366.738@0.0.1366.738" timestamp="1592875066153" />
+    <state x="116" y="90" width="1182" height="554" key="ShowDiffWithBranchDialog" timestamp="1592877236851">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="116" y="90" width="1182" height="554" key="ShowDiffWithBranchDialog/0.0.1366.738@0.0.1366.738" timestamp="1592877236851" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1592878795058">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1592878795058" />
+    <state x="0" y="0" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1592874872015">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1366.738@0.0.1366.738" timestamp="1592874872015" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592878866868">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1592878866868" />
+  </component>
+</project>
